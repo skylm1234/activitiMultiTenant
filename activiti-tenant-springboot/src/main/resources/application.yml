@@ -1,0 +1,11 @@
+spring:
+  datasource:
+     primary:
+       url: jdbc:mysql://111.230.111.203:3306/workflow3?characterEncoding=utf8
+       username: root
+       password: root
+     secondary:
+       url: jdbc:mysql://111.230.111.203:3306/workflow4?characterEncoding=utf8
+       username: root
+       password: root
+
